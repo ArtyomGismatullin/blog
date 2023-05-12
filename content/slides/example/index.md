@@ -13,13 +13,13 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Этапы реализации индивидуального проекта
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+[Wowchemy](https://wowchemy.com/) | [GitHub](https://github.com/ArtyomGismatullin)
 
 ---
 
-## Features
+## Размещение на GitHub pages заготовки для персонального сайта.
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
