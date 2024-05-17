@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Hugo Blox Builder's Slides feature.
+summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
@@ -13,13 +13,13 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Hugo Blox Builder
+# Этапы реализации индивидуального проекта
 
-[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
+[Wowchemy](https://wowchemy.com/) | [GitHub](https://github.com/ArtyomGismatullin)
 
 ---
 
-## Features
+## Размещение на GitHub pages заготовки для персонального сайта.
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
@@ -166,4 +166,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://discord.gg/z8wNYzb)
 
-[Documentation](https://docs.hugoblox.com/content/slides/)
+[Documentation](https://wowchemy.com/docs/content/slides/)
