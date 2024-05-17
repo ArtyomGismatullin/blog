@@ -16,7 +16,7 @@ ignoreErrors: ["error-remote-getcsv"]
 
 defaultContentLanguage: en
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: en
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
