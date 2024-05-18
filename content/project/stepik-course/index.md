@@ -6,7 +6,7 @@ tags:
 date: '2024-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://stepik.org/course/111512/syllabus'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
